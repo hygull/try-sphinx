@@ -46,12 +46,12 @@ Collecting docutils>=0.12 (from sphinx)
 
 	+ `cd docs`
 
-5. In here, run the below command. You can see output [here](./files/sphinx-quickstart.md) if you wish to see how it appeared in my case.
+5. In here, run the below command. You can see output [here](./files/sphinx-quickstart-output.md) if you wish to see how it appeared in my case.
 
 	+ `sphinx-quickstart`
 
 
-6. Finally, run the below 2 commands 1 after one
+6. Finally, run the below 2 commands one after one
 
 	> **Note:** In Windows, you can try **start source\html\index.html** to open the index.html file in your browser. 
 	>
@@ -63,7 +63,9 @@ Collecting docutils>=0.12 (from sphinx)
 
 	+ `open source/html/index.html`
 
-Now, you can a beauiful HTML page generated for you.
+Now, you can see a beauiful HTML page generated for you.
+
+
 
 ### Quick overview of my terminal
 
