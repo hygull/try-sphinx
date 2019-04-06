@@ -33,7 +33,7 @@ A project to create a beautiful documentation using Sphinx.
 	+ `pip install sphinx`
 
 
-	> You can have a look at [pip install history for sphinx on MAC OS X](./files/sphinx-install-history.md) for full install history of **sphinx**.
+	> You can have a look at [pip install history for sphinx on MAC OS X](./files/sphinx-install-history.md) of full install history of **sphinx**.
 
 ```bash
 (venv3.6.7)Rishikeshs-Air:try_sphinx hygull$ pip install sphinx
