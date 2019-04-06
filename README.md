@@ -22,11 +22,11 @@ A project to create a beautiful documentation using Sphinx.
 
 2. Create virtual environment & activate it.
 
-	> **Note:** In windows, you can try `.\venv\Scripts\activate`.
+	> **Note:** In windows, you can try `.\venv3.6.7\Scripts\activate`.
 
-	+ `python3 -m virtaulenv venv`
+	+ `python3 -m virtaulenv venv3.6.7`
 	
-	+ `source venv/bin/activate`
+	+ `source venv3.6.7/bin/activate`
 
 3. Install **sphinx**.
 
