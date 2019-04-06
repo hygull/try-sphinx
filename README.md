@@ -7,7 +7,7 @@ A project to create a beautiful documentation using Sphinx.
 | Title | Resource | Description |
 | --- | --- | --- |
 | Operating system | MAC OS X| You can try it on Windows/Linux too| 
-| Python version| | Python3.6.7 | You can try it with Python3 only. For more details visit [https://pypi.org/project/Sphinx/] and check the supported versions |
+| Python version| Python3.6.7 | You can try it with Python3 only. For more details visit [https://pypi.org/project/Sphinx/] and check the supported versions |
 
 ### Quick start
 
