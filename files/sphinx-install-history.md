@@ -3,6 +3,8 @@
 > pip install history for sphinx on MAC OS X
 
 
+[Click here](https://hygull.github.io/try-sphinx/) to return to the previous page.
+
 ```bash
 Collecting sphinx
   Using cached https://files.pythonhosted.org/packages/17/a4/338f9cbc334dd27c972ea9aae3e054068c9b3a642c8abb1f67f93a59a85e/Sphinx-2.0.0-py2.py3-none-any.whl
