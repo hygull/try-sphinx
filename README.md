@@ -15,7 +15,7 @@ A project to create a beautiful documentation using Sphinx.
 
 2. Create virtual environment & activate it.
 
-> **Note:** In windows, you can try `.\venv\Scripts\activate`.
+	> **Note:** In windows, you can try `.\venv\Scripts\activate`.
 
 	+ `python3 -m virtaulenv venv`
 	
@@ -143,3 +143,4 @@ The HTML pages are in build/html.
 
 - [x] [Getting Started with Sphinx](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html)
 
+- [x] [Video guide](https://youtu.be/oJsUvBQyHBs)
