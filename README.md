@@ -2,6 +2,13 @@
 
 A project to create a beautiful documentation using Sphinx.
 
+### Detail 
+
+| Title | Resource | Description |
+| --- | --- | --- |
+| Operating system | MAC OS X| You can try it on Windows/Linux too| 
+| Python version| | Python3.6.7 | You can try it with Python3 only. For more details visit [https://pypi.org/project/Sphinx/] and check the supported versions |
+
 ### Quick start
 
 1. Create any directory & navigate inside that.
@@ -26,7 +33,7 @@ A project to create a beautiful documentation using Sphinx.
 	+ `pip install sphinx`
 
 
-> You can have a look at [pip install history for sphinx on MAC OS X](./files/sphinx-install-history.md) for full install history of **sphinx**.
+	> You can have a look at [pip install history for sphinx on MAC OS X](./files/sphinx-install-history.md) for full install history of **sphinx**.
 
 ```bash
 (venv3.6.7)Rishikeshs-Air:try_sphinx hygull$ pip install sphinx
