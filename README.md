@@ -53,11 +53,11 @@ Collecting docutils>=0.12 (from sphinx)
 
 6. Finally, run the below 2 commands 1 after one
 
-> **Note:** In Windows, you can try **start source\html\index.html** to open the index.html file in your browser. 
->
->Anyways, you can open the directory using Explorer/Finder etc. and click/dbclick (based on settings) to open it and see the page in your browser.
-> 
->In my case, I am on MAC OS X. 
+	> **Note:** In Windows, you can try **start source\html\index.html** to open the index.html file in your browser. 
+	>
+	>Anyways, you can open the directory using Explorer/Finder etc. 	and click/dbclick (based on settings) to open it and see the page in your browser.
+	> 
+	>In my case, I am on MAC OS X. 
 
 	+ `make html`
 
