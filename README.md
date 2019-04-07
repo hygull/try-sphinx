@@ -70,7 +70,19 @@ Collecting docutils>=0.12 (from sphinx)
 
 	+ `open source/html/index.html`
 
-Now, you can see a beauiful HTML page generated for you.
+Now, you can see a beauiful HTML page generated for you. Now you can have a look at [template](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/#id1) or [reSturctureText](http://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html) and start implementing/writing the documentation you want.
+
+### Extra steps
+
+7. Install recommonmark (for markdown support)
+
+	+ `pip install recommonmark`
+
+8. Add recommonmark to list
+
+	+ Just open the docs/source/conf.py
+
+	+ Replace `extensions = []` with `extensions = ['recommonmark']`
 
 
 
@@ -147,6 +159,18 @@ The HTML pages are in build/html.
 (venv3.6.7) Rishikeshs-Air:docs hygull$ open build/html/index.html 
 (venv3.6.7) Rishikeshs-Air:docs hygull$ 
 ```
+
+```bash
+(venv3.6.7) Rishikeshs-MacBook-Air:try_sphinx hygull$ pip install recommonmark
+Collecting recommonmark
+  Downloading https://files.pythonhosted.org/packages/9b/3d/92ea48401622510e57b4bdaa74dc9db2fb9e9e892324b48f9c02d716a93a/recommonmark-0.5.0-py2.py3-none-any.whl
+Requirement already satisfied: docutils>=0.11 in ./venv3.6.7/lib/python3.6/site-packages (from recommonmark) (0.14)
+Requ...
+...
+
+```
+
+
 
 ### References
 
